@@ -4,6 +4,7 @@
 - I'm a software developer and study at *Instituto Tecnológico Las Américas* (ITLA)
 - I'm learning Full Stack development
 - Languages it handles: Spanish (Native), English (A2-B1)
+- Mail: ijag_@hotmail.com
 
 ## My Skills 💻
 
