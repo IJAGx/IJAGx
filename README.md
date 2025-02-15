@@ -1,4 +1,4 @@
-### Hi 🤓, I'm Inocencio Avila
+### Hi 🤓, I'm Junior Avila
 
 ## About Me 
 - I'm a software developer and study at *Instituto Tecnológico Las Américas* (ITLA)
