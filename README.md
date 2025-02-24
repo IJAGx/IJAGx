@@ -41,6 +41,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Stats 🙂
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inocencio-Junior-Avila&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inocencio-Junior-Avila&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IJAGx&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJAGx&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 .
